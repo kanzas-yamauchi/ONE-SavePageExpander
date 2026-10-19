@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=ONE. セーブページ拡張 パッチ適用
+Exec=bash -c 'cd "$(dirname "%k")" && ./patch.sh'
+Terminal=true
+Icon=utilities-terminal

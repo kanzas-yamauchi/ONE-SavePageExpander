@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=ONE. セーブページ拡張 取り外し
+Exec=bash -c 'cd "$(dirname "%k")" && ./unpatch.sh'
+Terminal=true
+Icon=utilities-terminal
